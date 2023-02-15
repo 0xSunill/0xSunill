@@ -11,8 +11,8 @@ Web Developer with skills of React Js , Next Js, tailwind css and learning block
 * 🧠  I'm learning Next Js
 * 🤝  I'm open to collaborating on web and Blockchain projects
 
-<a href="https://www.twitter.com/0xSunilReddy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/0xSunilReddy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+<a href="https://www.twitter.com/sivareddy1112" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sivareddy1112?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 ### Skills
