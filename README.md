@@ -8,7 +8,7 @@ Web Developer with skills of React Js , Next Js, tailwind css and learning block
 
 * 🌍  I'm based in odisha, india
 * ✉️  You can contact me at [sunday7637@gmail.com](mailto:sunday7637@gmail.com)
-* 🧠  I'm learning Next Js
+* 🧠  I'm learning Blockchain Development
 * 🤝  I'm open to collaborating on web and Blockchain projects
 
 <a href="https://www.twitter.com/0xSunilReddy" target="_blank" rel="noreferrer"><img
