@@ -51,11 +51,17 @@
 ## 📊 <strong>GitHub Stats</strong>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilreddy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sunil's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xSunday&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sunil's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSunday&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilreddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunday&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xSunday&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=0xSunday&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%">
 </p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
@@ -81,17 +87,45 @@
 
 ## 🤝 <strong>Open to Collaboration</strong>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xSunday&show_icons=true&locale=en&layout=compact" alt="0xSunday" /></p>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
+  I'm always excited to collaborate on <strong>Solana Development</strong> and <strong>Web Development</strong> projects. If you have an idea or need help with a project, feel free to reach out!  
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSunday&show_icons=true&locale=en" alt="0xSunday" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunday&" alt="0xSunday" /></p>
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 ## 📝 <strong>Favorite Quote</strong>
 
 <p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
   <i>"The best way to predict the future is to create it."</i> – Peter Drucker  
+</p>
+
+<hr style="border: 1px solid #ddd; margin: 20px 0;">
+
+## 🌟 <strong>Recent Achievements</strong>
+
+<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
+  🏆 <strong>Completed Solana Bootcamp</strong> <br>
+  🚀 <strong>Launched 5+ Blockchain Projects</strong> <br>
+  📈 <strong>Contributed to 10+ Open Source Projects</strong>
+</p>
+
+<hr style="border: 1px solid #ddd; margin: 20px 0;">
+
+## 📚 <strong>Latest Blog Posts</strong>
+
+<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
+  <a href="https://medium.com/@sunday7637" target="_blank">Read my latest articles on Medium</a>
+</p>
+
+<hr style="border: 1px solid #ddd; margin: 20px 0;">
+
+## 🎯 <strong>Goals for 2023</strong>
+
+<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
+  - Master Solana Development <br>
+  - Contribute to more Open Source Projects <br>
+  - Build a Decentralized Exchange (DEX) <br>
+  - Write 10+ Technical Blogs
 </p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
