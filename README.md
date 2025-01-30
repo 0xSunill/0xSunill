@@ -51,12 +51,11 @@
 ## 📊 <strong>GitHub Stats</strong>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilreddy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sunil's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilreddy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilreddy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sunil's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilreddy&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilreddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
@@ -82,10 +81,11 @@
 
 ## 🤝 <strong>Open to Collaboration</strong>
 
-<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
-  I'm always excited to collaborate on <strong>Solana Development</strong> and <strong>Web Development</strong> projects. If you have an idea or need help with a project, feel free to reach out!  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xSunday&show_icons=true&locale=en&layout=compact" alt="0xSunday" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSunday&show_icons=true&locale=en" alt="0xSunday" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunday&" alt="0xSunday" /></p>
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 ## 📝 <strong>Favorite Quote</strong>
