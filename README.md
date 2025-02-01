@@ -120,14 +120,6 @@
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
-## 🎯 <strong>Goals for 2023</strong>
-
-<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
-  - Master Solana Development <br>
-  - Contribute to more Open Source Projects <br>
-  - Build a Decentralized Exchange (DEX) <br>
-  - Write 10+ Technical Blogs
-</p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
