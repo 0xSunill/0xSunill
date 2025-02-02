@@ -112,15 +112,5 @@
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
-## 📚 <strong>Latest Blog Posts</strong>
-
-<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
-  <a href="https://medium.com/@sunday7637" target="_blank">Read my latest articles on Medium</a>
-</p>
-
-<hr style="border: 1px solid #ddd; margin: 20px 0;">
-
-
-<hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 🌟 <strong>Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or chat about tech!</strong>
