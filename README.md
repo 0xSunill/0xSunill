@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunilreddy/sunilreddy/main/assets/blockchain.gif" alt="Blockchain Animation" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</p>
+
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4a90e2; font-size: 2.5rem; margin-bottom: 10px;">Hi, I'm Sunil Reddy 👋</h1>
+
+
+
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555; font-size: 1.2rem;">
   🌍 <strong>I'm based in Odisha, India</strong> <br>
@@ -14,8 +15,9 @@
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 ## 🛠️ <strong>Skills</strong>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### <strong>Blockchain Development</strong>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
