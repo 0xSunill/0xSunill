@@ -16,8 +16,8 @@
 
 ## 🛠️ <strong>Skills</strong>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-### <strong>Blockchain Development</strong>
 
+### <strong>Blockchain Development</strong>
 <p align="left">
   <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
