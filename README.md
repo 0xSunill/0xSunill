@@ -15,7 +15,7 @@
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 ## 🛠️ <strong>Skills</strong>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc5ejA5eWw3enl3MXlsdDlocjU4YmpsaHprYzhncjl3MXMwN3dwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+<img align="right" alt="Coding" width="375" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc5ejA5eWw3enl3MXlsdDlocjU4YmpsaHprYzhncjl3MXMwN3dwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 
 
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
-<br><br>  
+ 
 <hr style="border: 1px solid #ddd; margin: 202px 0;">
 
 ## 📊 <strong>GitHub Stats</strong>
