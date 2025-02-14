@@ -114,3 +114,8 @@
   🚀 <strong>Launched 5+ Blockchain Projects</strong> <br>
   📈 <strong>Contributed to 10+ Open Source Projects</strong>
 </p>
+
+<hr style="border: 1px solid #ddd; margin: 20px 0;">
+
+
+🌟 <strong>Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or chat about tech!</strong>
