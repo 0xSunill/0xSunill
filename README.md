@@ -3,8 +3,6 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4a90e2; font-size: 2.5rem; margin-bottom: 10px;">Hi, I'm Sunil Reddy 👋</h1>
 
 
-
-
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555; font-size: 1.2rem;">
   🌍 <strong>I'm based in Odisha, India</strong> <br>
   ✉️ <strong>You can contact me at:</strong> <a href="mailto:sunday7637@gmail.com" style="color: #1a73e8;">sunday7637@gmail.com</a> <br>
@@ -17,11 +15,9 @@
 ## 🛠️ <strong>Skills</strong>
 <img align="right" alt="Coding" width="375" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc5ejA5eWw3enl3MXlsdDlocjU4YmpsaHprYzhncjl3MXMwN3dwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
-
-
 ### <strong>Blockchain Development</strong>
 <p align="left"  >
-  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
+  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">  
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor">
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js">
@@ -57,17 +53,17 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xSunday&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sunil's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSunday&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xSunill&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sunil's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSunill&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunday&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xSunday&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunill&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xSunill&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=0xSunday&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=0xSunill&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%">
 </p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
