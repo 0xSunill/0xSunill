@@ -1,6 +1,15 @@
 
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4a90e2; font-size: 2.5rem; margin-bottom: 10px;">Hi, I'm Sunil Reddy 👋</h1>
+<!-- 🧬 GIGA-CRAZY README -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=550&lines=Hey+I'm+Sunil+Reddy+%F0%9F%91%BD;Builder+of+DeFi%2C+Tokens%2C+and+Legends+%F0%9F%94%AE;Blockchain+Warrior+%F0%9F%94%BB+Rust+Apprentice+%F0%9F%A7%9A;Deploying+dApps+like+spells+%F0%9F%9B%AB" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/0xSunday/0xSunday/blob/main/assets/terminal-matrix.gif" width="700" />
+</p>
 
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555; font-size: 1.2rem;">
