@@ -66,6 +66,10 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=0xSunill&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/0xSunill/0xSunill/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 ## 👨‍💻 <strong>Let's Connect</strong>
