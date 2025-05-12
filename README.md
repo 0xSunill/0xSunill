@@ -57,18 +57,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSunill&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunill&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xSunill&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="48%">
-</p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=0xSunill&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSunill&theme=dark&hide_border=true" alt="GitHub Streak" width="50%">
+ 
 </p>
 
+
+
+
+## Github Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=0xSunill&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+
+## Github Activity
 <p align="center">
-  <img src="https://github.com/0xSunill/0xSunill/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/0xSunday/0xSunday/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
@@ -81,10 +88,10 @@
   <a href="https://www.linkedin.com/in/karri-sunil-reddy-209249216">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 20px;">
   </a>
-  <a href="https://x.com/0xSunilReddy">
+  <a href="https://x.com/0xSunill">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 20px;">
   </a>
-  <a href="https://github.com/sunilreddy">
+  <a href="https://github.com/0xSunill">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 20px;">
   </a>
 </p>
