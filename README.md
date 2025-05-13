@@ -109,17 +109,6 @@
 <p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
   <i>"The best way to predict the future is to create it."</i> – Peter Drucker  
 </p>
-
-<hr style="border: 1px solid #ddd; margin: 20px 0;">
-
-## 🌟 <strong>Recent Achievements</strong>
-
-<p align="center" style="font-family: 'Arial', sans-serif; color: #555;">
-  🏆 <strong>Completed Solana Bootcamp</strong> <br>
-  🚀 <strong>Launched 5+ Blockchain Projects</strong> <br>
-  📈 <strong>Contributed to 10+ Open Source Projects</strong>
-</p>
-
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
 
