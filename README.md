@@ -1,9 +1,6 @@
 
 
 <!-- 🧬 GIGA-CRAZY README -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=550&lines=Hey+I'm+Sunil+Reddy+%F0%9F%91%BD;Builder+of+DeFi%2C+Tokens%2C+and+Legends+%F0%9F%94%AE;Blockchain+Warrior+%F0%9F%94%BB+Rust+Apprentice+%F0%9F%A7%9A;Deploying+dApps+like+spells+%F0%9F%9B%AB" />
-</p>
 
 
 
