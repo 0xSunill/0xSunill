@@ -69,12 +69,10 @@
 
 
 ## Github Activity
-<p align="center">
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xSunill/0xSunill/output/github-contribution-grid-snake-dark.svg">
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xSunill/0xSunill/output/github-contribution-grid-snake.svg">
+![GitHub Snake dark](https://github.com/0xSunill/0xSunill/blob/output/snake-dark.svg)
 
-</p>
+
 
 
 
