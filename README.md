@@ -70,8 +70,27 @@
 
 ## Github Activity
 <p align="center">
-  <img src="https://github.com/0xSunday/0xSunday/blob/output/github-contribution-grid-snake-dark.svg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xSunill/0xSunill/output/github-contribution-grid-snake-dark.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xSunill/0xSunill/output/github-contribution-grid-snake.svg">
+
 </p>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
