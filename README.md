@@ -59,7 +59,8 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-statss-lovat.vercel.app/?user=0xSunill&theme=dark&hide_border=true" width="52%" />
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=0xSunill&theme=dark&hide_border=true&background=FFFFFF00"  width="52%">
 </p>
 
 
@@ -71,22 +72,6 @@
 ## Github Activity
 
 ![GitHub Snake dark](https://github.com/0xSunill/0xSunill/blob/output/snake-dark.svg)
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
 
 
 
