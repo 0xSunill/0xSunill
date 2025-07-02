@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Sunil+Reddy+%F0%9F%91%BD;Builder+of+dApps%2C+Tokens+%26+DeFi+%F0%9F%94%AE;Solana+Dev+%7C+Rust+Apprentice+%F0%9F%A7%9A;Full-stack+Web+Developer+%F0%9F%93%90;Shipping+Smart+Contracts+with+Anchor+%F0%9F%94%A5;Turning+Ideas+into+Protocols+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Hey+I'm+Sunil+Reddy+%F0%9F%91%BD;Builder+of+dApps%2C+Tokens+%26+DeFi+%F0%9F%94%AE;Solana+Dev+%7C+Rust+Apprentice+%F0%9F%A7%9A;Full-stack+Web+Developer+%F0%9F%93%90;Shipping+Smart+Contracts+with+Anchor+%F0%9F%94%A5;Turning+Ideas+into+Protocols+%F0%9F%9A%80" />
 </p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
