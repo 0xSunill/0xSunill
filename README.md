@@ -49,18 +49,16 @@
 ## 📊 <strong>GitHub Stats</strong>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xSunill&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sunil's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSunill&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
-</p>
-
-
-
 
 <p align="center">
-
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=0xSunill&theme=dark&hide_border=true&background=FFFFFF00"  width="52%">
+  <img src="https://github-readme-stats-khaki-nu.vercel.app/api?username=0xSunill&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-khaki-nu.vercel.app/api/top-langs/?username=0xSunill&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xSunill&theme=dark&hide_border=true" width="52%" />
+</p>
+
 
 
 ## Github Trophies
